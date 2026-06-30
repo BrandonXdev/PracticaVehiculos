@@ -1,6 +1,9 @@
 
 package motocicletas;
 
+import vehiculos.Vehiculo;
+
+
 
 public class Motocicleta extends Vehiculo {
     private int cilindraje;
